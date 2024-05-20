@@ -1,0 +1,13 @@
+C:\Users\aarhes825\OneDrive - Berks Career & Technology Center\Level 2\Programs\C#\WarCardGame\WarCardGame\bin\Debug\WarCardGame.exe.config
+C:\Users\aarhes825\OneDrive - Berks Career & Technology Center\Level 2\Programs\C#\WarCardGame\WarCardGame\bin\Debug\WarCardGame.exe
+C:\Users\aarhes825\OneDrive - Berks Career & Technology Center\Level 2\Programs\C#\WarCardGame\WarCardGame\bin\Debug\WarCardGame.pdb
+C:\Users\aarhes825\OneDrive - Berks Career & Technology Center\Level 2\Programs\C#\WarCardGame\WarCardGame\obj\Debug\WarCardGame.csproj.AssemblyReference.cache
+C:\Users\aarhes825\OneDrive - Berks Career & Technology Center\Level 2\Programs\C#\WarCardGame\WarCardGame\obj\Debug\WarCardGame.csproj.SuggestedBindingRedirects.cache
+C:\Users\aarhes825\OneDrive - Berks Career & Technology Center\Level 2\Programs\C#\WarCardGame\WarCardGame\obj\Debug\WarCardGame.Properties.Resources.resources
+C:\Users\aarhes825\OneDrive - Berks Career & Technology Center\Level 2\Programs\C#\WarCardGame\WarCardGame\obj\Debug\WarCardGame.csproj.GenerateResource.cache
+C:\Users\aarhes825\OneDrive - Berks Career & Technology Center\Level 2\Programs\C#\WarCardGame\WarCardGame\obj\Debug\WarCardGame.csproj.CoreCompileInputs.cache
+C:\Users\aarhes825\OneDrive - Berks Career & Technology Center\Level 2\Programs\C#\WarCardGame\WarCardGame\obj\Debug\WarCardGame.exe
+C:\Users\aarhes825\OneDrive - Berks Career & Technology Center\Level 2\Programs\C#\WarCardGame\WarCardGame\obj\Debug\WarCardGame.pdb
+C:\Users\aarhes825\OneDrive - Berks Career & Technology Center\Level 2\Programs\C#\WarCardGame\WarCardGame\obj\Debug\WarCardGame.StartForm.resources
+C:\Users\aarhes825\OneDrive - Berks Career & Technology Center\Level 2\Programs\C#\WarCardGame\WarCardGame\obj\Debug\WarCardGame.BlackJackForm.resources
+C:\Users\aarhes825\OneDrive - Berks Career & Technology Center\Level 2\Programs\C#\WarCardGame\WarCardGame\obj\Debug\WarCardGame.WarForm.resources
